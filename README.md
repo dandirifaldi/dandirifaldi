@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello there 👋
+
+It's me **Dandi Rifaldi Aldiansyah**.
+
+I'm a **Student** at [Institut Teknologi Indonesia](https://www.iti.ac.id/).
+
+<!-- Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).\
+
+Saya juga memiliki gelar [Google Associate Android Developer](https://www.credential.net/h5deoi5h) sejak 2019.\ -->
+
+If I make you interest, connect me at [Linkedin](linkedin.com/in/dandi-rifaldi-aldiansyah-185360140/).
 
 <!--
 **dandirifaldi/dandirifaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
