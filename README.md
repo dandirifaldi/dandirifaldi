@@ -10,6 +10,12 @@ Saya juga memiliki gelar [Google Associate Android Developer](https://www.creden
 
 If I make you interest, connect me at [Linkedin](linkedin.com/in/dandi-rifaldi-aldiansyah-185360140/).
 
+<p align="left">
+<a href="https://github.com/dandirifaldi">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dandirifaldi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dandirifaldi&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <!--
 **dandirifaldi/dandirifaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
