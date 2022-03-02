@@ -8,7 +8,7 @@ I'm a **Student** at [Institut Teknologi Indonesia](https://www.iti.ac.id/).
 
 Saya juga memiliki gelar [Google Associate Android Developer](https://www.credential.net/h5deoi5h) sejak 2019.\ -->
 
-If I make you interest, connect me at [Linkedin](linkedin.com/in/dandi-rifaldi-aldiansyah-185360140/).
+If I make you interest, connect me at [Linkedin](https://www.linkedin.com/in/dandi-rifaldi-aldiansyah-185360140/).
 
 <p align="left">
 <a href="https://github.com/dandirifaldi">
