@@ -2,8 +2,15 @@
 
 It's me **Dandi Rifaldi Aldiansyah**.
 
-I'm a **Student** at [Institut Teknologi Indonesia](https://www.iti.ac.id/).
-
+I'm a **Human** that have interested to technology, machine learning, and web development.
+- 🔭 I’m currently working on Institut Teknologi Indonesia as Computer Lab Assistant 
+- 🌱 I’m currently learning MERN stack
+<!-- - 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
 <!-- Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).\
 
 Saya juga memiliki gelar [Google Associate Android Developer](https://www.credential.net/h5deoi5h) sejak 2019.\ -->
@@ -16,10 +23,10 @@ If I make you interest, connect me at [Linkedin](https://www.linkedin.com/in/dan
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dandirifaldi&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<!--
-**dandirifaldi/dandirifaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- **dandirifaldi/dandirifaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+<!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -29,4 +36,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
