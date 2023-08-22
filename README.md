@@ -4,8 +4,8 @@ It's me **Dandi Rifaldi Aldiansyah**.
 
 I'm a **Human** that have interested to technology, machine learning, and web development.
 
--  I’m currently working on Institut Teknologi Indonesia as Computer Lab Assistant 
--  I’m currently learning MERN stack
+-  I’m currently working on Bumi Amartha Teknologi. 
+-  I’m currently learning Full-Stack Web Development with JAVA and React Js.
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
